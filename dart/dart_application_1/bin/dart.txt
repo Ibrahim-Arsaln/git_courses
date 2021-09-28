@@ -1,0 +1,106 @@
+// import 'dart:io';
+
+void main() {
+
+
+final s1=Stream.periodic(Duration(seconds: 2));
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+// ----------------------------------------------------------
+//   var li=[
+// //   {
+// // 'name':'ibrahim4',
+// // num:123654,
+
+// // },
+// [1,112,54.2]
+
+
+// ];
+
+
+
+// var sum = 0 as dynamic;
+// var m=li[0].map ((e){
+
+// sum +=e;
+
+// return e;
+
+
+// }).toList();
+// print(sum);
+// print(m);
+
+// print(Platform.executable);
+// print(Platform.numberOfProcessors);
+//  print(Platform.numberOfProcessors);
+//  print(Platform.operatingSystem);
+//  print(Platform.script);
+//  print(Platform.version);
+//  print(Platform.operatingSystemVersion);
+//  print(Platform.isAndroid);
+//  print(Platform.isIOS);
+
+ 
+//  -----------------------------------
+
+//  Platform.environment.forEach((key, _) {
+//    print('$key      ${Platform.environment[key]}');
+
+
+//  });
+
+
+//  -----------------------------------
+
+
+//  Platform.environment.forEach((key, value) {
+//    print('$key            $value');
+
+
+//  });
+// ------------------------------------------------
+
+
+// final f1=Future(info);
+
+// f1
+// .then((value) => print(' value  $value'))
+// .catchError((Error)=>print('Error  $Error') );
+
+// // -------------------------
+
+// final f2=Future.value(2).then((value) => print(value));
+
+// // -----------------------------
+// final f3=Future.delayed(Duration(seconds: 3),()=> print('seconds : $Duration'));
+
+// print('1');
+
+// }
+
+// double info(){
+
+   
+  
+//   return 2.0;
+//   // return double.parse('545d');
+  
+// }
